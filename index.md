@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+### Olá, Eu sou Leonardo Marçal 💻 👋
 
-You can use the [editor on GitHub](https://github.com/Leonnmarshall/leonardomarcal.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Quem sou eu?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+😃 💻 Cientista da Informação em formação 🥰.
+📊 Consultor.
+😁 Empreendedor.
+🎓 Licenciatura em Pedagogia - FORTIUM (2018).
+🎓 Bacharelado em Biblioteconomia - UFPE.
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas - SENAC.
+🎓 Mestrando em Ciência da Informação - PPGCI UFPE.
 
-### Markdown
+###Trabalho atual
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+📊 Business Tech Analyst I - Grupo Boticário. 
+📚 Pesquisador CAPES. 
 
-```markdown
-Syntax highlighted code block
+### 💡 Skills 💻
+🐍 Python.
+📈 R.
+🧮 Power BI.
+🔮 Machine Learning.
+📊 Data Visualization.
+📊 Learning Analytics.
 
-# Header 1
-## Header 2
-### Header 3
+### 🔋 Atualmente estou aprendendo  💻
+🗄 Tableau | DOCKER | GCP | AWS
+➿ Front-end.
+🔅 Inglês.
 
-- Bulleted
-- List
+### Meus projetos
 
-1. Numbered
-2. List
+*Data Science:*
+[Custos Médicos - Modelo de Precificação](https://github.com/Leonnmarshall/Data-Science/tree/master/Aula%203)
+[Visualização de Dados - BI](https://github.com/Leonnmarshall/Data-Science/tree/master/Aula2)
+[Analise de Dados Públicos](https://github.com/Leonnmarshall/dataAnalytics)
 
-**Bold** and _Italic_ and `Code` text
+*Aplicativos Web:*
+[Vivendo bem](https://github.com/Leonnmarshall/app-vivendo-bem)
+[BiblioFlix](https://github.com/Leonnmarshall/BiblioFlix)
+[Barbearia Deodado](https://github.com/Leonnmarshall/webDeveloper)
+[Sua Casa em Hogwarts](https://github.com/Leonnmarshall/CasaHogwarts-.git)
 
-[Link](url) and ![Image](src)
-```
+*Sites:*
+[Instituto Latinoamericano de Valores Humanos](https://institutovaloreshumanos.org/)
+[Edilene Silva - WebSite](https://edilenesilva.com.br)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Encontre-me neste mundo 🌎
+* [Linkedin](www.linkedin.com/in/leonnmarshall)
+* [Instagram](https://www.instagram.com/coding_life.py/)
+* [Lattes](http://lattes.cnpq.br/2936385010552177)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Leonnmarshall/leonardomarcal.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
